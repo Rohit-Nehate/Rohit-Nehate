@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-- 👀 I'm a BCA 2st Year Student.
+- 👀 I'm a BCA 2nd Year Student.
 - 🦾 FrontEnd developer and still learning new technologoies.
 
 <h3 align="left">Languages and Tools:</h3>
