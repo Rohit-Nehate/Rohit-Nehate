@@ -30,6 +30,9 @@ I work with <strong>Reactjs, Node.js, Python, JavaScript, HTML, CSS, C, Bash, an
     <a href="https://t.me/examiner_sui" target="blank">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
+    <a href="https://www.linkedin.com/in/mr-rohit-nehte" target="blank">
+       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </p>
 
 <hr>
