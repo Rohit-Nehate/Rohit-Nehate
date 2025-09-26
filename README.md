@@ -1,51 +1,68 @@
-# Hi, I'm Rohit Nehte 👋
+<div align="center">
+<h1>Hi 👋, I'm YADAV</h1>
 
+<h2>Passionate Backend Developer | PHP • Node.js • Python</h2>
 
-## 🚀 About Me
-- 👀 I'm a BCA 2nd Year Student.
-- 🦾 FrontEnd developer and still learning new technologoies.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SirYadav1&label=Profile%20views&color=00a400&style=flat" alt="SirYadav1" /> 
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=SirYadav1&cc=000000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+<hr>
 
-<h2 align="left">FrontEnd Technologies - </h2>
+<div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
+<h2 style="color: #0e75b6;">👤 About Me</h2>
+<p>
+I'm a <strong>self-taught Backend Developer</strong> passionate about building personal projects and exploring new technologies.<br/>
+I work with <strong>PHP, Node.js, Python, JavaScript, HTML, CSS, C, Bash, and MySQL</strong>, creating efficient backend solutions.
+</p>
+</div>
 
+<hr>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </t>
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
+    <a href="https://instagram.com/rootxyadav" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://t.me/SirYadav" target="blank">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+</p>
 
+<hr>
 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </t>
+<div align="center">
+    <h3>💻 Languages and Tools:</h3>
+    <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </p>
+</div>
 
-   
+<hr>
 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</t>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  </t>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-  
- </br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirYadav1&show_icons=true&theme=algolia&layout=compact" alt="SirYadav1" />
+</div>
 
-  <h2  align="left">Languages - </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SirYadav1&show_icons=true&theme=algolia" alt="SirYadav1" />
+</div>
 
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=SirYadav1&theme=matrix" alt="SirYadav1" />
+    </a>
+</div>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
-  </t>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-</br>
-
-<h2  align="left">BackEnd Technologies - </h2>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  
-
-  
-  
-
-
-<!---
-Rohit-Nehate/Rohit-Nehate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![YADAV's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SirYadav1&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/SirYadav1/github-readme-activity-graph)
